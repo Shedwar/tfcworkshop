@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "tfcworkshop"
+    organization = "SJE-Sandbox"
 
     workspaces {
       name = "aws-foundation-security-groups"
